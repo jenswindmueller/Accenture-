@@ -1,8 +1,14 @@
 import React from 'react'
 import '../../App.css'
+import VideoCard from '../VideoCard'
+
 
 export default function Products() {
-  return <h1 className='products'>PRODUCTS</h1>
-}  
+  return ( 
+        <>
+          <VideoCard />
+        </>
+  ); 
+}   
 
  

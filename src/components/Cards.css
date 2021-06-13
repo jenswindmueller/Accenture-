@@ -1,6 +1,7 @@
 .cards {
   padding: 4rem;
   background: #fff;
+  
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
   align-items: center;
   max-width: 1120px;
   width: 90%;
-  margin: 0 auto;
+  
 }
 
 .cards__wrapper {
@@ -116,3 +117,4 @@ h1 {
     margin-bottom: 2rem;
   }
 }
+
